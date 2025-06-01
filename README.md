@@ -6,21 +6,21 @@ Publicitária formada, com especialização em Web Design. Estudante de Interfac
 
 ##  Conecte-se comigo
 
-* Email pessoal: [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luananataliagoulart@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luananataliagoulart@gmail.com)
 
-* Perfil LinkedIn:[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luana-goulart-4789b51a5)
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luana-goulart-4789b51a5)
 
-* Perfil  Github: [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luana-nagoulart)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luana-nagoulart)
 
 
-* Perfil  Dio.me: [![Dio](https://img.shields.io/badge/Dio.me-1E90FF?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/luananataliagoulart/?tab=achievements)
+  [![Dio](https://img.shields.io/badge/Dio.me-1E90FF?style=for-the-badge&logo=Dio&logoColor=white)](https://web.dio.me/users/luananataliagoulart/?tab=achievements)
 
 
 
 ##  Linguagens e tecnologias
-HTML ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 
-CSS ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ### Ferramentas
